@@ -1,0 +1,5 @@
+config.py
+*.dat
+*.txt
+!requirements.txt
+__pycache__/
