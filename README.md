@@ -2,11 +2,6 @@
 
 A console-based Recipe Management System built in Python with a MySQL backend. Supports two roles — Admin and User — for curating and exploring a recipe database.
 
-Developed collaboratively as a school Computer Science project by:
-- Aysha Suha
-- Sai Prathama Gouri
-- Shreya Prakash Issani
-
 ---
 
 ## Features
